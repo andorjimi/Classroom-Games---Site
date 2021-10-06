@@ -1,0 +1,50 @@
+body {
+  background-color: #3DB2FF;
+  margin: 20px;
+  font-family: "Helvetica" sans-serif;
+}
+
+.card {
+  background-color: #FFEDDA;
+  border-radius: 5%;
+  position: relative;
+}
+
+.card-img {
+  align-self: center;
+  width:90%;
+}
+
+.card-img-bottom {
+  align-self: center;
+  width: 90%;
+}
+
+.card-img-top {
+  align-self: center;
+  width: 90%;
+}
+
+.btn-warning {
+  color: #FFEDDA;
+  background-color: #FFB830;
+  border-color: #FFB830;
+  font-size: 100%;
+  font-size-adjust: auto;
+  font-family: sans-serif;
+  height: 40px;
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  right: 20px;
+}
+
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  margin-right: 20px
+
+}
